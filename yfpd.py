@@ -1,6 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+#Developed by @ashish_net twitter handle
+
 import requests
 from bs4 import BeautifulSoup
 import sys,os,subprocess

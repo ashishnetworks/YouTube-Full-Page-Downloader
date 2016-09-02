@@ -1,0 +1,11 @@
+# This Files prevents uploading of any other file form this directory
+*.pyc
+*.idea
+*.idea/
+*.youtube_output.html
+*.section.html
+*~
+
+# Except these file
+!.gitignore
+
