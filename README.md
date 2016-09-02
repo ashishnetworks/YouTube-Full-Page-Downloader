@@ -12,7 +12,7 @@ work in just single step. Excited?
 `git clone https://github.com/ashishnetworks/YouTube-Full-Page-Downloader
 `
 ## How to install
-``cd Full-Page-YouTube-Downloader``
+``cd YouTube-Full-Page-Downloader``
 
 ``python setup install
 ``
