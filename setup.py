@@ -8,6 +8,6 @@ setup(name='YFPD',
       author_email='info2and@gmail.com',
       license='MIT',
       #packages=['YFPD'],
-      install_requires=['requests','beautifulsoup4','html5lib','lxml'],
+      install_requires=['requests','beautifulsoup4','html5lib','lxml','youtube-dl'],
 
       zip_safe=False)
