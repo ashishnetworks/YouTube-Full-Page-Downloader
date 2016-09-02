@@ -22,4 +22,4 @@ work in just single step. Excited?
 
 Downloading should have started by now.
 
-_Feel free to edit and improve code and documentation. I would be happy to resolve any error if occured_
+_Feel free to edit and improve code and documentation. I would be happy to help you solve any issue incase of occurence
