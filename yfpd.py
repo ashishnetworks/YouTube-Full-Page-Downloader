@@ -7,7 +7,7 @@ import requests
 from bs4 import BeautifulSoup
 import sys,os,subprocess
 
-def googlesearch(searchfor):
+def youtubeSearch(searchfor):
     link = 'https://www.youtube.com/results?'
     ua = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36'}
     payload = {'search_query': searchfor}
@@ -44,6 +44,6 @@ def googlesearch(searchfor):
 
         i=i+1
 
-googlesearch(sys.argv[1])
+youtubeSearch(sys.argv[1])
 
 
